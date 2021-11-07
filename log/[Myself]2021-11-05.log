@@ -1,0 +1,37 @@
+[W 11:30:05] File "e:\USER\桌面\MD\Myself.py", line 20, in set_Path: [ValueError] invalid literal for int() with base 10: 'a'
+[W 11:30:16] File "e:\USER\桌面\MD\Myself.py", line 20, in set_Path: [ValueError] invalid literal for int() with base 10: 'a'
+[W 12:03:31] File "e:\USER\桌面\MD\kit\loggerM.py", line 22, in LogRegister: [TypeError] 'classmethod' object is not callable
+[W 12:03:46] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 379, in prepare_url: [MissingSchema] Invalid URL '{}': No schema supplied. Perhaps you meant http://{}?
+[W 12:11:05] File "e:\USER\桌面\MD\Myself.py", line 53, in serverCatcher: [AssertionError] Server exceeded, please try again later !
+[W 12:11:11] File "e:\USER\桌面\MD\Myself.py", line 53, in serverCatcher: [AssertionError] Server exceeded, please try again later !
+[W 12:11:19] File "e:\USER\桌面\MD\Myself.py", line 53, in serverCatcher: [AssertionError] Server exceeded, please try again later !
+[W 12:26:05] File "e:\USER\桌面\MD\Myself.py", line 54, in serverCatcher: [AssertionError] Server exceeded, please try again later !
+[W 13:33:10] File "e:\USER\桌面\MD\Myself.py", line 101, in download: [AttributeError] module 'pexpect' has no attribute 'spawn'
+[W 14:26:11] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\pexpect.py", line 1782, in which: [AttributeError] module 'string' has no attribute 'split'
+[W 16:48:58] File "e:\USER\桌面\MD\Myself.py", line 91, in fastServer: [KeyError] 1
+[W 16:49:16] File "e:\USER\桌面\MD\Myself.py", line 92, in fastServer: [KeyError] 1
+[W 16:56:24] File "e:\USER\桌面\MD\Myself.py", line 112, in <lambda>: [ValueError] invalid literal for int() with base 10: '&'
+[W 17:13:58] File "e:\USER\桌面\MD\kit\loggerM.py", line 22, in LogRegister: [TypeError] searchEpisode() missing 1 required positional argument: '_list'
+[W 17:14:09] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 17:20:43] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 17:29:44] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 18:54:25] File "e:\USER\桌面\MD\Myself.py", line 36, in informCatcher: [AttributeError] 'NoneType' object has no attribute 'get'
+[W 18:57:05] File "e:\USER\桌面\MD\Myself.py", line 95, in fastServer: [TypeError] not all arguments converted during string formatting
+[W 18:58:32] File "e:\USER\桌面\MD\Myself.py", line 95, in fastServer: [TypeError] not all arguments converted during string formatting
+[W 19:17:58] File "e:\USER\桌面\MD\Myself.py", line 146, in <lambda>: [ValueError] invalid literal for int() with base 10: ''
+[W 19:46:32] File "e:\USER\桌面\MD\Start.py", line 32, in downloader: [UnboundLocalError] local variable 'downloadList' referenced before assignment
+[W 19:46:53] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 19:46:53] File "e:\USER\桌面\MD\Start.py", line 27, in downloader: [TypeError] 'NoneType' object is not subscriptable
+[W 19:47:05] File "e:\USER\桌面\MD\Start.py", line 33, in downloader: [UnboundLocalError] local variable 'downloadList' referenced before assignment
+[W 19:49:59] File "e:\USER\桌面\MD\Start.py", line 37, in downloader: [KeyError] AnimerFolder
+[W 19:50:24] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 19:50:24] File "e:\USER\桌面\MD\Start.py", line 28, in downloader: [TypeError] 'NoneType' object is not subscriptable
+[W 19:50:31] File "e:\USER\桌面\MD\Start.py", line 48, in downloader: [UnboundLocalError] local variable '_folderName' referenced before assignment
+[W 19:51:14] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 19:51:14] File "e:\USER\桌面\MD\Start.py", line 28, in downloader: [TypeError] 'NoneType' object is not subscriptable
+[W 19:54:58] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 19:54:58] File "e:\USER\桌面\MD\Start.py", line 28, in downloader: [TypeError] 'NoneType' object is not subscriptable
+[W 19:55:13] File "e:\USER\桌面\MD\Myself.py", line 168, in downloadListGenerator: [TypeError] replace() takes 2 positional arguments but 3 were given
+[W 19:55:13] File "e:\USER\桌面\MD\Myself.py", line 210, in mutipleDownload: [TypeError] 'NoneType' object is not iterable
+[W 19:56:18] File "C:\Users\USER\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 703, in get_adapter: [InvalidSchema] No connection adapters were found for '& C:/Users/USER/AppData/Local/Programs/Python/Python39/python.exe e:/USER/桌面/MD/Start.py'
+[W 19:56:18] File "e:\USER\桌面\MD\Start.py", line 28, in downloader: [TypeError] 'NoneType' object is not subscriptable
