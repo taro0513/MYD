@@ -3,18 +3,13 @@ A program that can download animations from myself website
 
 一個可以用來下載Myself網站上動漫的程式
 
-## Install
-```
-git clone https://github.com/taro0513/MYD
-cd MYD
-pip install -r requirements.txt
-```
 ## Quick Start 
 [無GUI版本]
 1. 確定電腦內包含 [ffmpeg](https://ffmpeg.org/) 並**設為環境變數 (Environment Variable)** 或 **存在當前目錄下**
 2. 電腦內是否包含 [Python](https://www.python.org/)
-3. 下載並執行 ```python Start.py```
-4. 出現以下畫面即可開始使用
+3. [下載](https://github.com/taro0513/MYD/archive/refs/heads/master.zip) 並執行 ```pip install -r requirements.txt```
+4. 並執行 ```python Start.py```
+5. 出現以下畫面即可開始使用
 
 ![image](https://user-images.githubusercontent.com/56122956/140645627-ec086b64-096f-435a-9eaf-e1870ff498fb.png)
 
@@ -64,3 +59,5 @@ pip install -r requirements.txt
 
 ![image](https://user-images.githubusercontent.com/56122956/140646482-95656868-65c0-4e3f-9169-090d90e15dd1.png)
 
+## Contact
+如果有任何bug或疑問 歡迎私訊我的Discord -> Patrickuuuu#0922
